@@ -1,0 +1,9 @@
+# Site settings
+title: N-Blog
+author:
+  name: Joe
+  email: your-email@domain.com
+description: "Blog GHP"
+
+# Build settings
+remote_theme: jekyll/minima
